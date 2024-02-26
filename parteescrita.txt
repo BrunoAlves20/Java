@@ -1,0 +1,7 @@
+1:Qual a finalidade de ser fazer cometaríos em códigos fontes de programas em Java?
+R:os comentarios servem para deixa algum  comunicado a terceiros que podem,
+ver o código, ou para servi de lembretes para a pessoa que está fazendo um programa.
+pode usar para identificar as variavel ou deixa avisos.
+
+2:Qual saída deve ser apresentada quando for exercutado o seguinte rpograma?Justifique 
+R:b)escreve dois, porque x não é maior que três e quadro não é maior que cinco.
