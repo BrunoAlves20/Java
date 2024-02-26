@@ -1,0 +1,10 @@
+QUESTÃO 01: o que são declaração e inicialização de uma variaével ?
+
+R: A declaração de uma variavel é a forma de indicação do tipo de dado que ela
+pode armazenar e a sua identificação. já a inicialização é feita através da atribuição
+de um valor a ela.
+
+QUESTÃO 02:  Quais devem ser apresentadas quando for executado o seguinte programa? Justifique.
+
+R: Quando o programa roda a respota que sair é dezena, centena, milhar, outros, isso ocorrer
+porque não tem o uso do break associado a cada case. 
